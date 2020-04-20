@@ -14,7 +14,7 @@
 클라이언트와 서버는 Json 형식으로 메세지를 주고 받습니다.  
 
 **주요 역활**  
-Javs swing을 사용하여 클라이언트(관리자) View 부분과 Controller 부분을 구현 하였습니다.  
+Java swing을 사용하여 클라이언트(관리자) View 부분과 Controller 부분을 구현 하였습니다.  
 
 
 **기타 사항**  
