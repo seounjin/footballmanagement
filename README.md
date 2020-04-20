@@ -14,8 +14,8 @@
 클라이언트와 서버는 Json 형식으로 메세지를 주고 받습니다.  
 
 **주요 역활**  
-Java swing을 사용하여 클라이언트(관리자) View 부분과 Controller 부분을 구현 하였습니다.  
-
+Java swing을 사용하여 클라이언트(관리자) View 부분을 구현하였습니다.  
+Controller(재고관리, 풋살장 예약현황 파악, 풋살장 휴무일 지정 이벤트처리) 부분을 구현 하였습니다.  
 
 **기타 사항**  
 최종 코드는 https://github.com/seounjin/footballmanagement/tree/bsj 입니다.
